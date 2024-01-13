@@ -24,3 +24,8 @@ Unidad 02
     1. Determinar a partir de la respuesta anterior cuál es el curso más popular.
     1. De ese curso más popular extraer la lista de alumnos
     1. Definir en función del año de ingreso cuántos años hace que esta cada estudiante en la universidad
+
+**Resolución:**
+
+- Una solución resuelta usando consultas SQL
+- Otra solución resuelta usando pandas
