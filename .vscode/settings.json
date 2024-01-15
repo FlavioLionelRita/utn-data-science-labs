@@ -1,5 +1,16 @@
 {
     "cSpell.words": [
-        "iloc"
+        "astype",
+        "boxplot",
+        "edgecolor",
+        "figsize",
+        "histplot",
+        "iloc",
+        "ncols",
+        "nrows",
+        "xlabel",
+        "xlim",
+        "ylabel",
+        "yscale"
     ]
 }
