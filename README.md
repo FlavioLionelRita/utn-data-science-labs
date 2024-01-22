@@ -6,15 +6,15 @@
 pip install -r requirements.txt
 ```
 
-## Exercise 01
+## Exercise DER
 
 Module 01 Unidad 02
 
 Desarrollar habilidades para identificar y analizar relaciones en bases de datos estructuradas.
 
-[exercise](https://github.com/FlavioLionelRita/utn-data-science-labs/blob/main/Exercises/01/DER.pdf)
+[exercise](https://github.com/FlavioLionelRita/utn-data-science-labs/blob/main/Exercises/01-DER/DER.pdf)
 
-## Exercise 02
+## Exercise Pandas
 
 Module 01 Unidad 02
 
@@ -25,14 +25,14 @@ Module 01 Unidad 02
     1. De ese curso más popular extraer la lista de alumnos
     1. Definir en función del año de ingreso cuántos años hace que esta cada estudiante en la universidad
 
-- [exercise](https://github.com/FlavioLionelRita/utn-data-science-labs/blob/main/Exercises/02/labPanda.ipynb)
+- [exercise](https://github.com/FlavioLionelRita/utn-data-science-labs/blob/main/Exercises/02-Pandas/labPanda.ipynb)
 
 **Resolución:**
 
 - Una solución resuelta usando consultas SQL
 - Otra solución resuelta usando pandas
 
-## Exercise 03
+## Exercise Online Retail
 
 Module 01 Unidad 03
 
@@ -50,4 +50,4 @@ Se practica:
    1. Ventas por dia y hora
 1. Visualización de datos con matplotlib y seaborn
 
-[exercise](https://github.com/FlavioLionelRita/utn-data-science-labs/blob/main/Exercises/03/lab.ipynb)
+[exercise](https://github.com/FlavioLionelRita/utn-data-science-labs/blob/main/Exercises/03-OnlineRetail/lab.ipynb)
