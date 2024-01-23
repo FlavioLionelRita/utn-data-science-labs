@@ -51,3 +51,7 @@ Se practica:
 1. Visualización de datos con matplotlib y seaborn
 
 [exercise](https://github.com/FlavioLionelRita/utn-data-science-labs/blob/main/Exercises/03-OnlineRetail/lab.ipynb)
+
+## Agricultural Estimates
+
+[exercise](https://github.com/FlavioLionelRita/utn-data-science-labs/blob/main/Exercises/04-AgriculturalEstimates/AgriculturalEstimates.ipynb)

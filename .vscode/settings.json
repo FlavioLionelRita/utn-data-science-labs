@@ -1,6 +1,8 @@
 {
     "cSpell.words": [
+        "Algodon",
         "astype",
+        "azucar",
         "biodiesel",
         "boxplot",
         "edgecolor",
@@ -8,13 +10,22 @@
         "figsize",
         "histplot",
         "iloc",
+        "isin",
+        "Limon",
+        "Maiz",
         "matplotlib",
         "ncols",
         "nrows",
+        "Phyton",
+        "Poroto",
+        "produccion",
+        "PYTHONIOENCODING",
         "seaborn",
         "substr",
+        "unidecode",
         "xlabel",
         "xlim",
+        "xticks",
         "ylabel",
         "yscale"
     ]

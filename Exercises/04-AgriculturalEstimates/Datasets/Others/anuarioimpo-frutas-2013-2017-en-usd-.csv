@@ -1,0 +1,111 @@
+paisorigen_id,pais_origen,producto,paisdestino_id,pais_destino,año,moneda_cod,moneda,totales
+210,Ecuador,Banana,32,Argentina,2013,USD,Dolares,151963.47
+202,Bolivia,Banana,32,Argentina,2013,USD,Dolares,30271.17
+221,Paraguay,Banana,32,Argentina,2013,USD,Dolares,4802.2
+203,Brasil,Banana,32,Argentina,2013,USD,Dolares,4765.58
+,Otros,Banana,32,Argentina,2013,USD,Dolares,0
+210,Ecuador,Banana,32,Argentina,2014,USD,Dolares,162352.9
+202,Bolivia,Banana,32,Argentina,2014,USD,Dolares,37248.63
+221,Paraguay,Banana,32,Argentina,2014,USD,Dolares,6372.06
+203,Brasil,Banana,32,Argentina,2014,USD,Dolares,7660.75
+,Otros,Banana,32,Argentina,2014,USD,Dolares,0
+210,Ecuador,Banana,32,Argentina,2015,USD,Dolares,156409.67
+202,Bolivia,Banana,32,Argentina,2015,USD,Dolares,41815.06
+221,Paraguay,Banana,32,Argentina,2015,USD,Dolares,8847.91
+203,Brasil,Banana,32,Argentina,2015,USD,Dolares,7907.47
+,Otros,Banana,32,Argentina,2015,USD,Dolares,0
+210,Ecuador,Banana,32,Argentina,2016,USD,Dolares,156873.56
+202,Bolivia,Banana,32,Argentina,2016,USD,Dolares,38354.46
+221,Paraguay,Banana,32,Argentina,2016,USD,Dolares,9137.9
+203,Brasil,Banana,32,Argentina,2016,USD,Dolares,4797.27
+,Otros,Banana,32,Argentina,2016,USD,Dolares,14.56
+210,Ecuador,Banana,32,Argentina,2017,USD,Dolares,188401.45
+202,Bolivia,Banana,32,Argentina,2017,USD,Dolares,37432.23
+221,Paraguay,Banana,32,Argentina,2017,USD,Dolares,8876.43
+203,Brasil,Banana,32,Argentina,2017,USD,Dolares,4177.66
+,Otros,Banana,32,Argentina,2017,USD,Dolares,
+210,Ecuador,Ananá,32,Argentina,2013,USD,Dolares,5825.5
+203,Brasil,Ananá,32,Argentina,2013,USD,Dolares,602.36
+221,Paraguay,Ananá,32,Argentina,2013,USD,Dolares,774.47
+202,Bolivia,Ananá,32,Argentina,2013,USD,Dolares,437.76
+206,Costa Rica,Ananá,32,Argentina,2013,USD,Dolares,88.13
+,Otros,Ananá,32,Argentina,2013,USD,Dolares,5825.5
+210,Ecuador,Ananá,32,Argentina,2014,USD,Dolares,6101.07
+203,Brasil,Ananá,32,Argentina,2014,USD,Dolares,942.5
+221,Paraguay,Ananá,32,Argentina,2014,USD,Dolares,1042.22
+202,Bolivia,Ananá,32,Argentina,2014,USD,Dolares,482.37
+206,Costa Rica,Ananá,32,Argentina,2014,USD,Dolares,0
+,Otros,Ananá,32,Argentina,2014,USD,Dolares,6101.07
+210,Ecuador,Ananá,32,Argentina,2015,USD,Dolares,5952.36
+203,Brasil,Ananá,32,Argentina,2015,USD,Dolares,885.8
+221,Paraguay,Ananá,32,Argentina,2015,USD,Dolares,803.41
+202,Bolivia,Ananá,32,Argentina,2015,USD,Dolares,623.25
+206,Costa Rica,Ananá,32,Argentina,2015,USD,Dolares,0
+,Otros,Ananá,32,Argentina,2015,USD,Dolares,5952.36
+210,Ecuador,Ananá,32,Argentina,2016,USD,Dolares,6361.72
+203,Brasil,Ananá,32,Argentina,2016,USD,Dolares,1269.51
+221,Paraguay,Ananá,32,Argentina,2016,USD,Dolares,1142.32
+202,Bolivia,Ananá,32,Argentina,2016,USD,Dolares,360.18
+206,Costa Rica,Ananá,32,Argentina,2016,USD,Dolares,0
+,Otros,Ananá,32,Argentina,2016,USD,Dolares,6361.72
+210,Ecuador,Ananá,32,Argentina,2017,USD,Dolares,8085.51
+203,Brasil,Ananá,32,Argentina,2017,USD,Dolares,1778.53
+221,Paraguay,Ananá,32,Argentina,2017,USD,Dolares,898.8
+202,Bolivia,Ananá,32,Argentina,2017,USD,Dolares,157.89
+206,Costa Rica,Ananá,32,Argentina,2017,USD,Dolares,200.94
+,Otros,Ananá,32,Argentina,2017,USD,Dolares,8085.51
+203,Brasil,Mango,32,Argentina,2013,USD,Dolares,2005.83
+210,Ecuador,Mango,32,Argentina,2013,USD,Dolares,275.18
+,Otros,Mango,32,Argentina,2013,USD,Dolares,0
+203,Brasil,Mango,32,Argentina,2014,USD,Dolares,2152.45
+210,Ecuador,Mango,32,Argentina,2014,USD,Dolares,144.23
+,Otros,Mango,32,Argentina,2014,USD,Dolares,0
+203,Brasil,Mango,32,Argentina,2015,USD,Dolares,2189.14
+210,Ecuador,Mango,32,Argentina,2015,USD,Dolares,85.5
+,Otros,Mango,32,Argentina,2015,USD,Dolares,0
+203,Brasil,Mango,32,Argentina,2016,USD,Dolares,2219.05
+210,Ecuador,Mango,32,Argentina,2016,USD,Dolares,55.84
+,Otros,Mango,32,Argentina,2016,USD,Dolares,0
+203,Brasil,Mango,32,Argentina,2017,USD,Dolares,2749.7
+210,Ecuador,Mango,32,Argentina,2017,USD,Dolares,28.79
+,Otros,Mango,32,Argentina,2017,USD,Dolares,0
+208,Chile,Kiwi,32,Argentina,2013,USD,Dolares,11316.54
+417,Italia,Kiwi,32,Argentina,2013,USD,Dolares,4159.5
+504,Nueva Zelanda,Kiwi,32,Argentina,2013,USD,Dolares,
+,Otros,Kiwi,32,Argentina,2013,USD,Dolares,58.67
+208,Chile,Kiwi,32,Argentina,2014,USD,Dolares,4611.4
+417,Italia,Kiwi,32,Argentina,2014,USD,Dolares,5022.6
+504,Nueva Zelanda,Kiwi,32,Argentina,2014,USD,Dolares,47.58
+,Otros,Kiwi,32,Argentina,2014,USD,Dolares,0
+208,Chile,Kiwi,32,Argentina,2015,USD,Dolares,11277.4
+417,Italia,Kiwi,32,Argentina,2015,USD,Dolares,4482.19
+504,Nueva Zelanda,Kiwi,32,Argentina,2015,USD,Dolares,
+,Otros,Kiwi,32,Argentina,2015,USD,Dolares,0
+208,Chile,Kiwi,32,Argentina,2016,USD,Dolares,7916.8
+417,Italia,Kiwi,32,Argentina,2016,USD,Dolares,6091.73
+504,Nueva Zelanda,Kiwi,32,Argentina,2016,USD,Dolares,215.61
+,Otros,Kiwi,32,Argentina,2016,USD,Dolares,0
+208,Chile,Kiwi,32,Argentina,2017,USD,Dolares,9520.45
+417,Italia,Kiwi,32,Argentina,2017,USD,Dolares,7825.25
+504,Nueva Zelanda,Kiwi,32,Argentina,2017,USD,Dolares,217.24
+,Otros,Kiwi,32,Argentina,2017,USD,Dolares,
+208,Chile,Palta,32,Argentina,2013,USD,Dolares,17692.93
+218,México,Palta,32,Argentina,2013,USD,Dolares,0
+222,Perú,Palta,32,Argentina,2013,USD,Dolares,0
+,Otros,Palta,32,Argentina,2013,USD,Dolares,0
+208,Chile,Palta,32,Argentina,2014,USD,Dolares,25466.34
+218,México,Palta,32,Argentina,2014,USD,Dolares,0
+222,Perú,Palta,32,Argentina,2014,USD,Dolares,0
+,Otros,Palta,32,Argentina,2014,USD,Dolares,0
+208,Chile,Palta,32,Argentina,2015,USD,Dolares,25322.14
+218,México,Palta,32,Argentina,2015,USD,Dolares,0
+222,Perú,Palta,32,Argentina,2015,USD,Dolares,0
+,Otros,Palta,32,Argentina,2015,USD,Dolares,0
+208,Chile,Palta,32,Argentina,2016,USD,Dolares,24510.68
+218,México,Palta,32,Argentina,2016,USD,Dolares,760.45
+222,Perú,Palta,32,Argentina,2016,USD,Dolares,0
+,Otros,Palta,32,Argentina,2016,USD,Dolares,0
+208,Chile,Palta,32,Argentina,2017,USD,Dolares,40222.21
+218,México,Palta,32,Argentina,2017,USD,Dolares,1386.43
+222,Perú,Palta,32,Argentina,2017,USD,Dolares,1619.81
+,Otros,Palta,32,Argentina,2017,USD,Dolares,0

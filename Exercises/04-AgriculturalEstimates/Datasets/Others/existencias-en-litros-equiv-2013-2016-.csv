@@ -1,0 +1,265 @@
+pais_id,país,año,mes,ccp,producto,uni_med_id,uni_med,cantidad_por_miles
+32,Argentina,2013,1,22211,Leche en polvo entera,l,Litros,156808.57
+32,Argentina,2013,2,22211,Leche en polvo entera,l,Litros,120249.92
+32,Argentina,2013,3,22211,Leche en polvo entera,l,Litros,116841.86
+32,Argentina,2013,4,22211,Leche en polvo entera,l,Litros,123511.48
+32,Argentina,2013,5,22211,Leche en polvo entera,l,Litros,129972.57
+32,Argentina,2013,6,22211,Leche en polvo entera,l,Litros,144297.23
+32,Argentina,2013,7,22211,Leche en polvo entera,l,Litros,142866.49
+32,Argentina,2013,8,22211,Leche en polvo entera,l,Litros,153836.83
+32,Argentina,2013,9,22211,Leche en polvo entera,l,Litros,155953.75
+32,Argentina,2013,10,22211,Leche en polvo entera,l,Litros,187552.11
+32,Argentina,2013,11,22211,Leche en polvo entera,l,Litros,164166.57
+32,Argentina,2013,12,22211,Leche en polvo entera,l,Litros,153283.96
+32,Argentina,2013,1,22212,Leche en polvo descremada,l,Litros,68437.01
+32,Argentina,2013,2,22212,Leche en polvo descremada,l,Litros,68390.04
+32,Argentina,2013,3,22212,Leche en polvo descremada,l,Litros,58502.56
+32,Argentina,2013,4,22212,Leche en polvo descremada,l,Litros,64153.39
+32,Argentina,2013,5,22212,Leche en polvo descremada,l,Litros,74706.33
+32,Argentina,2013,6,22212,Leche en polvo descremada,l,Litros,52425.59
+32,Argentina,2013,7,22212,Leche en polvo descremada,l,Litros,67542.85
+32,Argentina,2013,8,22212,Leche en polvo descremada,l,Litros,80837.8
+32,Argentina,2013,9,22212,Leche en polvo descremada,l,Litros,53893.53
+32,Argentina,2013,10,22212,Leche en polvo descremada,l,Litros,63155.61
+32,Argentina,2013,11,22212,Leche en polvo descremada,l,Litros,64609.7
+32,Argentina,2013,12,22212,Leche en polvo descremada,l,Litros,62358.66
+32,Argentina,2013,1,22251,Quesos de baja humedad (pasta dura),l,Litros,216168.41
+32,Argentina,2013,2,22251,Quesos de baja humedad (pasta dura),l,Litros,204236.02
+32,Argentina,2013,3,22251,Quesos de baja humedad (pasta dura),l,Litros,196900.32
+32,Argentina,2013,4,22251,Quesos de baja humedad (pasta dura),l,Litros,195723.18
+32,Argentina,2013,5,22251,Quesos de baja humedad (pasta dura),l,Litros,180224.88
+32,Argentina,2013,6,22251,Quesos de baja humedad (pasta dura),l,Litros,195014.84
+32,Argentina,2013,7,22251,Quesos de baja humedad (pasta dura),l,Litros,199625.06
+32,Argentina,2013,8,22251,Quesos de baja humedad (pasta dura),l,Litros,197270.05
+32,Argentina,2013,9,22251,Quesos de baja humedad (pasta dura),l,Litros,195681.93
+32,Argentina,2013,10,22251,Quesos de baja humedad (pasta dura),l,Litros,184001.22
+32,Argentina,2013,11,22251,Quesos de baja humedad (pasta dura),l,Litros,202816.15
+32,Argentina,2013,12,22251,Quesos de baja humedad (pasta dura),l,Litros,205809.93
+32,Argentina,2013,1,22251,Quesos de mediana humedad (pasta semidura),l,Litros,100377.1
+32,Argentina,2013,2,22251,Quesos de mediana humedad (pasta semidura),l,Litros,97358.49
+32,Argentina,2013,3,22251,Quesos de mediana humedad (pasta semidura),l,Litros,96971.17
+32,Argentina,2013,4,22251,Quesos de mediana humedad (pasta semidura),l,Litros,101739.23
+32,Argentina,2013,5,22251,Quesos de mediana humedad (pasta semidura),l,Litros,114908.31
+32,Argentina,2013,6,22251,Quesos de mediana humedad (pasta semidura),l,Litros,109545.31
+32,Argentina,2013,7,22251,Quesos de mediana humedad (pasta semidura),l,Litros,113808.62
+32,Argentina,2013,8,22251,Quesos de mediana humedad (pasta semidura),l,Litros,115337.14
+32,Argentina,2013,9,22251,Quesos de mediana humedad (pasta semidura),l,Litros,129050.47
+32,Argentina,2013,10,22251,Quesos de mediana humedad (pasta semidura),l,Litros,123273.43
+32,Argentina,2013,11,22251,Quesos de mediana humedad (pasta semidura),l,Litros,130287.12
+32,Argentina,2013,12,22251,Quesos de mediana humedad (pasta semidura),l,Litros,132695.01
+32,Argentina,2013,1,22251,Quesos de alta humedad (pasta blanda),l,Litros,31754.4
+32,Argentina,2013,2,22251,Quesos de alta humedad (pasta blanda),l,Litros,37412.08
+32,Argentina,2013,3,22251,Quesos de alta humedad (pasta blanda),l,Litros,34605.9
+32,Argentina,2013,4,22251,Quesos de alta humedad (pasta blanda),l,Litros,36340.67
+32,Argentina,2013,5,22251,Quesos de alta humedad (pasta blanda),l,Litros,38466.74
+32,Argentina,2013,6,22251,Quesos de alta humedad (pasta blanda),l,Litros,44944.98
+32,Argentina,2013,7,22251,Quesos de alta humedad (pasta blanda),l,Litros,38853.11
+32,Argentina,2013,8,22251,Quesos de alta humedad (pasta blanda),l,Litros,37569.3
+32,Argentina,2013,9,22251,Quesos de alta humedad (pasta blanda),l,Litros,31263.54
+32,Argentina,2013,10,22251,Quesos de alta humedad (pasta blanda),l,Litros,39800.27
+32,Argentina,2013,11,22251,Quesos de alta humedad (pasta blanda),l,Litros,36221.2
+32,Argentina,2013,12,22251,Quesos de alta humedad (pasta blanda),l,Litros,37343.56
+32,Argentina,2013,1,#N/A,Otros Productos Lácteos,l,Litros,160016.19
+32,Argentina,2013,2,#N/A,Otros Productos Lácteos,l,Litros,131136.52
+32,Argentina,2013,3,#N/A,Otros Productos Lácteos,l,Litros,104181.99
+32,Argentina,2013,4,#N/A,Otros Productos Lácteos,l,Litros,87428.73
+32,Argentina,2013,5,#N/A,Otros Productos Lácteos,l,Litros,68984.33
+32,Argentina,2013,6,#N/A,Otros Productos Lácteos,l,Litros,61235.88
+32,Argentina,2013,7,#N/A,Otros Productos Lácteos,l,Litros,81017.83
+32,Argentina,2013,8,#N/A,Otros Productos Lácteos,l,Litros,100583.85
+32,Argentina,2013,9,#N/A,Otros Productos Lácteos,l,Litros,119947.12
+32,Argentina,2013,10,#N/A,Otros Productos Lácteos,l,Litros,144267.33
+32,Argentina,2013,11,#N/A,Otros Productos Lácteos,l,Litros,165177.99
+32,Argentina,2013,12,#N/A,Otros Productos Lácteos,l,Litros,163909.86
+32,Argentina,2014,1,22211,Leche en polvo entera,l,Litros,154503.67
+32,Argentina,2014,2,22211,Leche en polvo entera,l,Litros,168479.77
+32,Argentina,2014,3,22211,Leche en polvo entera,l,Litros,147952.65
+32,Argentina,2014,4,22211,Leche en polvo entera,l,Litros,127685.57
+32,Argentina,2014,5,22211,Leche en polvo entera,l,Litros,136129.14
+32,Argentina,2014,6,22211,Leche en polvo entera,l,Litros,146517.73
+32,Argentina,2014,7,22211,Leche en polvo entera,l,Litros,158338.83
+32,Argentina,2014,8,22211,Leche en polvo entera,l,Litros,155151.06
+32,Argentina,2014,9,22211,Leche en polvo entera,l,Litros,159951.92
+32,Argentina,2014,10,22211,Leche en polvo entera,l,Litros,199571.83
+32,Argentina,2014,11,22211,Leche en polvo entera,l,Litros,211171.56
+32,Argentina,2014,12,22211,Leche en polvo entera,l,Litros,254265.81
+32,Argentina,2014,1,22212,Leche en polvo descremada,l,Litros,62287.95
+32,Argentina,2014,2,22212,Leche en polvo descremada,l,Litros,54556.71
+32,Argentina,2014,3,22212,Leche en polvo descremada,l,Litros,60463.16
+32,Argentina,2014,4,22212,Leche en polvo descremada,l,Litros,61548.9
+32,Argentina,2014,5,22212,Leche en polvo descremada,l,Litros,54801.54
+32,Argentina,2014,6,22212,Leche en polvo descremada,l,Litros,51909.93
+32,Argentina,2014,7,22212,Leche en polvo descremada,l,Litros,49574.7
+32,Argentina,2014,8,22212,Leche en polvo descremada,l,Litros,80910.21
+32,Argentina,2014,9,22212,Leche en polvo descremada,l,Litros,115748.04
+32,Argentina,2014,10,22212,Leche en polvo descremada,l,Litros,129222.6
+32,Argentina,2014,11,22212,Leche en polvo descremada,l,Litros,142514.96
+32,Argentina,2014,12,22212,Leche en polvo descremada,l,Litros,163349.76
+32,Argentina,2014,1,22251,Quesos de baja humedad (pasta dura),l,Litros,215389.48
+32,Argentina,2014,2,22251,Quesos de baja humedad (pasta dura),l,Litros,201965.77
+32,Argentina,2014,3,22251,Quesos de baja humedad (pasta dura),l,Litros,194826.38
+32,Argentina,2014,4,22251,Quesos de baja humedad (pasta dura),l,Litros,193962.17
+32,Argentina,2014,5,22251,Quesos de baja humedad (pasta dura),l,Litros,183163.81
+32,Argentina,2014,6,22251,Quesos de baja humedad (pasta dura),l,Litros,196728.09
+32,Argentina,2014,7,22251,Quesos de baja humedad (pasta dura),l,Litros,187632.67
+32,Argentina,2014,8,22251,Quesos de baja humedad (pasta dura),l,Litros,188370.25
+32,Argentina,2014,9,22251,Quesos de baja humedad (pasta dura),l,Litros,196987.1
+32,Argentina,2014,10,22251,Quesos de baja humedad (pasta dura),l,Litros,187785.09
+32,Argentina,2014,11,22251,Quesos de baja humedad (pasta dura),l,Litros,201526.06
+32,Argentina,2014,12,22251,Quesos de baja humedad (pasta dura),l,Litros,226658.96
+32,Argentina,2014,1,22251,Quesos de mediana humedad (pasta semidura),l,Litros,119735.89
+32,Argentina,2014,2,22251,Quesos de mediana humedad (pasta semidura),l,Litros,108215.75
+32,Argentina,2014,3,22251,Quesos de mediana humedad (pasta semidura),l,Litros,118586.64
+32,Argentina,2014,4,22251,Quesos de mediana humedad (pasta semidura),l,Litros,126568.11
+32,Argentina,2014,5,22251,Quesos de mediana humedad (pasta semidura),l,Litros,145086.62
+32,Argentina,2014,6,22251,Quesos de mediana humedad (pasta semidura),l,Litros,128240.69
+32,Argentina,2014,7,22251,Quesos de mediana humedad (pasta semidura),l,Litros,133477.24
+32,Argentina,2014,8,22251,Quesos de mediana humedad (pasta semidura),l,Litros,140313.16
+32,Argentina,2014,9,22251,Quesos de mediana humedad (pasta semidura),l,Litros,152557.65
+32,Argentina,2014,10,22251,Quesos de mediana humedad (pasta semidura),l,Litros,136807.8
+32,Argentina,2014,11,22251,Quesos de mediana humedad (pasta semidura),l,Litros,141298.34
+32,Argentina,2014,12,22251,Quesos de mediana humedad (pasta semidura),l,Litros,142351.28
+32,Argentina,2014,1,22251,Quesos de alta humedad (pasta blanda),l,Litros,30780.63
+32,Argentina,2014,2,22251,Quesos de alta humedad (pasta blanda),l,Litros,36021.79
+32,Argentina,2014,3,22251,Quesos de alta humedad (pasta blanda),l,Litros,41472.71
+32,Argentina,2014,4,22251,Quesos de alta humedad (pasta blanda),l,Litros,42700.64
+32,Argentina,2014,5,22251,Quesos de alta humedad (pasta blanda),l,Litros,45286.12
+32,Argentina,2014,6,22251,Quesos de alta humedad (pasta blanda),l,Litros,46831.68
+32,Argentina,2014,7,22251,Quesos de alta humedad (pasta blanda),l,Litros,39725.7
+32,Argentina,2014,8,22251,Quesos de alta humedad (pasta blanda),l,Litros,43079.43
+32,Argentina,2014,9,22251,Quesos de alta humedad (pasta blanda),l,Litros,43357.03
+32,Argentina,2014,10,22251,Quesos de alta humedad (pasta blanda),l,Litros,47319.27
+32,Argentina,2014,11,22251,Quesos de alta humedad (pasta blanda),l,Litros,47860.79
+32,Argentina,2014,12,22251,Quesos de alta humedad (pasta blanda),l,Litros,47349.68
+32,Argentina,2014,1,#N/A,Otros Productos Lácteos,l,Litros,154749.33
+32,Argentina,2014,2,#N/A,Otros Productos Lácteos,l,Litros,133692.71
+32,Argentina,2014,3,#N/A,Otros Productos Lácteos,l,Litros,105403.49
+32,Argentina,2014,4,#N/A,Otros Productos Lácteos,l,Litros,89396.97
+32,Argentina,2014,5,#N/A,Otros Productos Lácteos,l,Litros,76454.67
+32,Argentina,2014,6,#N/A,Otros Productos Lácteos,l,Litros,68752.81
+32,Argentina,2014,7,#N/A,Otros Productos Lácteos,l,Litros,94193.4
+32,Argentina,2014,8,#N/A,Otros Productos Lácteos,l,Litros,118525.5
+32,Argentina,2014,9,#N/A,Otros Productos Lácteos,l,Litros,137372.54
+32,Argentina,2014,10,#N/A,Otros Productos Lácteos,l,Litros,147101.8
+32,Argentina,2014,11,#N/A,Otros Productos Lácteos,l,Litros,179754.67
+32,Argentina,2014,12,#N/A,Otros Productos Lácteos,l,Litros,204095.09
+32,Argentina,2015,1,22211,Leche en polvo entera,l,Litros,275479.79
+32,Argentina,2015,2,22211,Leche en polvo entera,l,Litros,265228.16
+32,Argentina,2015,3,22211,Leche en polvo entera,l,Litros,204394.92
+32,Argentina,2015,4,22211,Leche en polvo entera,l,Litros,189475.09
+32,Argentina,2015,5,22211,Leche en polvo entera,l,Litros,191010.41
+32,Argentina,2015,6,22211,Leche en polvo entera,l,Litros,225340.53
+32,Argentina,2015,7,22211,Leche en polvo entera,l,Litros,289021.73
+32,Argentina,2015,8,22211,Leche en polvo entera,l,Litros,299771.25
+32,Argentina,2015,9,22211,Leche en polvo entera,l,Litros,327577.2
+32,Argentina,2015,10,22211,Leche en polvo entera,l,Litros,323634.26
+32,Argentina,2015,11,22211,Leche en polvo entera,l,Litros,389570.54
+32,Argentina,2015,12,22211,Leche en polvo entera,l,Litros,337579.4
+32,Argentina,2015,1,22212,Leche en polvo descremada,l,Litros,160300.76
+32,Argentina,2015,2,22212,Leche en polvo descremada,l,Litros,162745.9
+32,Argentina,2015,3,22212,Leche en polvo descremada,l,Litros,147501.81
+32,Argentina,2015,4,22212,Leche en polvo descremada,l,Litros,123067.5
+32,Argentina,2015,5,22212,Leche en polvo descremada,l,Litros,98446.53
+32,Argentina,2015,6,22212,Leche en polvo descremada,l,Litros,84982.88
+32,Argentina,2015,7,22212,Leche en polvo descremada,l,Litros,69894.85
+32,Argentina,2015,8,22212,Leche en polvo descremada,l,Litros,65413.85
+32,Argentina,2015,9,22212,Leche en polvo descremada,l,Litros,89737.53
+32,Argentina,2015,10,22212,Leche en polvo descremada,l,Litros,113464.06
+32,Argentina,2015,11,22212,Leche en polvo descremada,l,Litros,114335.09
+32,Argentina,2015,12,22212,Leche en polvo descremada,l,Litros,155016.43
+32,Argentina,2015,1,22251,Quesos de baja humedad (pasta dura),l,Litros,207853.12
+32,Argentina,2015,2,22251,Quesos de baja humedad (pasta dura),l,Litros,207044.45
+32,Argentina,2015,3,22251,Quesos de baja humedad (pasta dura),l,Litros,196551.22
+32,Argentina,2015,4,22251,Quesos de baja humedad (pasta dura),l,Litros,187050.22
+32,Argentina,2015,5,22251,Quesos de baja humedad (pasta dura),l,Litros,168180.79
+32,Argentina,2015,6,22251,Quesos de baja humedad (pasta dura),l,Litros,176023.33
+32,Argentina,2015,7,22251,Quesos de baja humedad (pasta dura),l,Litros,174855.88
+32,Argentina,2015,8,22251,Quesos de baja humedad (pasta dura),l,Litros,171772.97
+32,Argentina,2015,9,22251,Quesos de baja humedad (pasta dura),l,Litros,190545.19
+32,Argentina,2015,10,22251,Quesos de baja humedad (pasta dura),l,Litros,196703.1
+32,Argentina,2015,11,22251,Quesos de baja humedad (pasta dura),l,Litros,210432.19
+32,Argentina,2015,12,22251,Quesos de baja humedad (pasta dura),l,Litros,213945.1
+32,Argentina,2015,1,22251,Quesos de mediana humedad (pasta semidura),l,Litros,132392.18
+32,Argentina,2015,2,22251,Quesos de mediana humedad (pasta semidura),l,Litros,148964.21
+32,Argentina,2015,3,22251,Quesos de mediana humedad (pasta semidura),l,Litros,137652.38
+32,Argentina,2015,4,22251,Quesos de mediana humedad (pasta semidura),l,Litros,127039.49
+32,Argentina,2015,5,22251,Quesos de mediana humedad (pasta semidura),l,Litros,148506.47
+32,Argentina,2015,6,22251,Quesos de mediana humedad (pasta semidura),l,Litros,145285.12
+32,Argentina,2015,7,22251,Quesos de mediana humedad (pasta semidura),l,Litros,141562.72
+32,Argentina,2015,8,22251,Quesos de mediana humedad (pasta semidura),l,Litros,148492.54
+32,Argentina,2015,9,22251,Quesos de mediana humedad (pasta semidura),l,Litros,166874.35
+32,Argentina,2015,10,22251,Quesos de mediana humedad (pasta semidura),l,Litros,167544.39
+32,Argentina,2015,11,22251,Quesos de mediana humedad (pasta semidura),l,Litros,160092.72
+32,Argentina,2015,12,22251,Quesos de mediana humedad (pasta semidura),l,Litros,145382.79
+32,Argentina,2015,1,22251,Quesos de alta humedad (pasta blanda),l,Litros,40474.8
+32,Argentina,2015,2,22251,Quesos de alta humedad (pasta blanda),l,Litros,45431.28
+32,Argentina,2015,3,22251,Quesos de alta humedad (pasta blanda),l,Litros,43375.37
+32,Argentina,2015,4,22251,Quesos de alta humedad (pasta blanda),l,Litros,40836.99
+32,Argentina,2015,5,22251,Quesos de alta humedad (pasta blanda),l,Litros,44729.07
+32,Argentina,2015,6,22251,Quesos de alta humedad (pasta blanda),l,Litros,47442.31
+32,Argentina,2015,7,22251,Quesos de alta humedad (pasta blanda),l,Litros,37614.51
+32,Argentina,2015,8,22251,Quesos de alta humedad (pasta blanda),l,Litros,37944.95
+32,Argentina,2015,9,22251,Quesos de alta humedad (pasta blanda),l,Litros,38616.96
+32,Argentina,2015,10,22251,Quesos de alta humedad (pasta blanda),l,Litros,45058.21
+32,Argentina,2015,11,22251,Quesos de alta humedad (pasta blanda),l,Litros,42712.67
+32,Argentina,2015,12,22251,Quesos de alta humedad (pasta blanda),l,Litros,35626.11
+32,Argentina,2015,1,#N/A,Otros Productos Lácteos,l,Litros,163522.78
+32,Argentina,2015,2,#N/A,Otros Productos Lácteos,l,Litros,153447.17
+32,Argentina,2015,3,#N/A,Otros Productos Lácteos,l,Litros,107867.3
+32,Argentina,2015,4,#N/A,Otros Productos Lácteos,l,Litros,86906.21
+32,Argentina,2015,5,#N/A,Otros Productos Lácteos,l,Litros,73563.94
+32,Argentina,2015,6,#N/A,Otros Productos Lácteos,l,Litros,62329.65
+32,Argentina,2015,7,#N/A,Otros Productos Lácteos,l,Litros,86533.07
+32,Argentina,2015,8,#N/A,Otros Productos Lácteos,l,Litros,105509.43
+32,Argentina,2015,9,#N/A,Otros Productos Lácteos,l,Litros,136524.09
+32,Argentina,2015,10,#N/A,Otros Productos Lácteos,l,Litros,173821.53
+32,Argentina,2015,11,#N/A,Otros Productos Lácteos,l,Litros,178026.47
+32,Argentina,2015,12,#N/A,Otros Productos Lácteos,l,Litros,198742.03
+32,Argentina,2016,1,22211,Leche en polvo entera,l,Litros,374077.77
+32,Argentina,2016,2,22211,Leche en polvo entera,l,Litros,409152.06
+32,Argentina,2016,3,22211,Leche en polvo entera,l,Litros,362494.13
+32,Argentina,2016,4,22211,Leche en polvo entera,l,Litros,324257.98
+32,Argentina,2016,5,22211,Leche en polvo entera,l,Litros,285349.89
+32,Argentina,2016,6,22211,Leche en polvo entera,l,Litros,286815.78
+32,Argentina,2016,7,22211,Leche en polvo entera,l,Litros,269703.12
+32,Argentina,2016,8,22211,Leche en polvo entera,l,Litros,242516.07
+32,Argentina,2016,1,22212,Leche en polvo descremada,l,Litros,116597.48
+32,Argentina,2016,2,22212,Leche en polvo descremada,l,Litros,129438.78
+32,Argentina,2016,3,22212,Leche en polvo descremada,l,Litros,84269.59
+32,Argentina,2016,4,22212,Leche en polvo descremada,l,Litros,98368.86
+32,Argentina,2016,5,22212,Leche en polvo descremada,l,Litros,71072.74
+32,Argentina,2016,6,22212,Leche en polvo descremada,l,Litros,57175.28
+32,Argentina,2016,7,22212,Leche en polvo descremada,l,Litros,60782.35
+32,Argentina,2016,8,22212,Leche en polvo descremada,l,Litros,66261.44
+32,Argentina,2016,1,22251,Quesos de baja humedad (pasta dura),l,Litros,225418.13
+32,Argentina,2016,2,22251,Quesos de baja humedad (pasta dura),l,Litros,210397.67
+32,Argentina,2016,3,22251,Quesos de baja humedad (pasta dura),l,Litros,180506.34
+32,Argentina,2016,4,22251,Quesos de baja humedad (pasta dura),l,Litros,158680.1
+32,Argentina,2016,5,22251,Quesos de baja humedad (pasta dura),l,Litros,130857.91
+32,Argentina,2016,6,22251,Quesos de baja humedad (pasta dura),l,Litros,130451.33
+32,Argentina,2016,7,22251,Quesos de baja humedad (pasta dura),l,Litros,133070.55
+32,Argentina,2016,8,22251,Quesos de baja humedad (pasta dura),l,Litros,130045.62
+32,Argentina,2016,1,22251,Quesos de mediana humedad (pasta semidura),l,Litros,145835.72
+32,Argentina,2016,2,22251,Quesos de mediana humedad (pasta semidura),l,Litros,144708.66
+32,Argentina,2016,3,22251,Quesos de mediana humedad (pasta semidura),l,Litros,129555.37
+32,Argentina,2016,4,22251,Quesos de mediana humedad (pasta semidura),l,Litros,115069.47
+32,Argentina,2016,5,22251,Quesos de mediana humedad (pasta semidura),l,Litros,125491.4
+32,Argentina,2016,6,22251,Quesos de mediana humedad (pasta semidura),l,Litros,129504.54
+32,Argentina,2016,7,22251,Quesos de mediana humedad (pasta semidura),l,Litros,137056
+32,Argentina,2016,8,22251,Quesos de mediana humedad (pasta semidura),l,Litros,152424.95
+32,Argentina,2016,1,22251,Quesos de alta humedad (pasta blanda),l,Litros,42410.03
+32,Argentina,2016,2,22251,Quesos de alta humedad (pasta blanda),l,Litros,42301.28
+32,Argentina,2016,3,22251,Quesos de alta humedad (pasta blanda),l,Litros,39634.05
+32,Argentina,2016,4,22251,Quesos de alta humedad (pasta blanda),l,Litros,38509.77
+32,Argentina,2016,5,22251,Quesos de alta humedad (pasta blanda),l,Litros,42820.61
+32,Argentina,2016,6,22251,Quesos de alta humedad (pasta blanda),l,Litros,46159.39
+32,Argentina,2016,7,22251,Quesos de alta humedad (pasta blanda),l,Litros,41611.94
+32,Argentina,2016,8,22251,Quesos de alta humedad (pasta blanda),l,Litros,42777.73
+32,Argentina,2016,1,#N/A,Otros Productos Lácteos,l,Litros,157428.16
+32,Argentina,2016,2,#N/A,Otros Productos Lácteos,l,Litros,129096.48
+32,Argentina,2016,3,#N/A,Otros Productos Lácteos,l,Litros,94435.75
+32,Argentina,2016,4,#N/A,Otros Productos Lácteos,l,Litros,61534.69
+32,Argentina,2016,5,#N/A,Otros Productos Lácteos,l,Litros,60111.57
+32,Argentina,2016,6,#N/A,Otros Productos Lácteos,l,Litros,53446.91
+32,Argentina,2016,7,#N/A,Otros Productos Lácteos,l,Litros,57564.42
+32,Argentina,2016,8,#N/A,Otros Productos Lácteos,l,Litros,64121.15
